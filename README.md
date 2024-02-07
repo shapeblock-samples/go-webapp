@@ -18,3 +18,5 @@ FRONTEND:
   - [HTMX](https://github.com/bigskysoftware/htmx): Used for adding reactivity without the need of refreshing the page. Acomplished sending and receiving AJAX request.
   - [Alpinejs](https://github.com/tailwindlabs/tailwindcss): Adding js behaviour in HTML. In this case its just showing/hiding forms and interacting with localStorage.
   - [TailwindCSS](https://github.com/tailwindlabs/tailwindcss): CSS framework for rapid UI development.
+
+Add buildable FE assets.
